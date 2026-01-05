@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Cardia ECG - 12-Lead Dataset Suite",
+  "description": "Professional multi-label cardiac arrhythmia classification platform for deep learning analysis of 12-lead ECG signals with batch processing capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
